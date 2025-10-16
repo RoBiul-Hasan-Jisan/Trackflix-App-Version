@@ -49,6 +49,13 @@ TrackFlix is a movie and TV show discovery platform where users can explore tren
 - **Chatbot**: Rule-based + API-driven 
 
 ---
+## App Version
+
+The latest version of the app has been improved. You can download and install it via Android Studio using the link below:
+
+[Download App](https://drive.google.com/file/d/1EIqhCJTaYMaBRM09CRKo4vt_uS2s91er/view?usp=sharing)
+
+-
 
 ##  Installation & Setup
 
